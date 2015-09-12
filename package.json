@@ -1,0 +1,17 @@
+{
+  "name": "github-status-lgtm",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/stefanbuck/github-status-lgtm",
+  "repository": "https://github.com/stefanbuck/github-status-lgtm",
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "gh-got": "^2.0.0",
+    "hapi": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
